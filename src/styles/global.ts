@@ -10,6 +10,13 @@ export default createGlobalStyle`
     -webkit-font-smoothing: antialiased;
   }
 
+  body{
+    background-color: #111;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+  }
+
+
   button{
     cursor: pointer;
   }
